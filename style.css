@@ -289,7 +289,7 @@
 
 .deals {
   margin-top: 128px;
-  background-image: url("/Rectangle\ 9.png/");
+  background-image: url("./Rectangle\ 9.png");
   background-size: cover;
   display: flex;
   justify-content: center;
